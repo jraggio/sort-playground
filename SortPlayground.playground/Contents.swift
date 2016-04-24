@@ -1,5 +1,3 @@
-// John Raggio
-
 import Cocoa
 import CoreFoundation
 import Foundation  // without this import the formatting below did not work, but did not give an error either
